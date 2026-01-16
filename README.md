@@ -1,5 +1,7 @@
 # 📝 Smart Note Editor
 
+## live page link [click here](https://rustom-yadav.github.io/note-editor-app/)
+## github repo link [repo link](https://github.com/Rustom-yadav/note-editor-app)
 A lightweight note-taking component built with **HTML, CSS, and Vanilla JavaScript**.  
 This project focuses on **content editing, change detection, and user feedback** without using any external libraries.
 
@@ -81,8 +83,3 @@ It’s a solid foundation for building:
 - Markdown support
 - Keyboard shortcuts
 
----
-
-## live page link
-
-[View the live demo](https://your-deployed-url.com)
